@@ -1,0 +1,14 @@
+# Exact versions every notebook in this course was recorded and verified against.
+# JAX makes breaking changes between releases: install these and the code on screen
+# matches what you see in the lectures.
+
+jax==0.10.0
+jaxlib==0.10.0
+flax==0.12.7
+optax==0.2.8
+flatbuffers==25.12.19
+numpy==2.4.4
+matplotlib==3.11.0
+scipy==1.17.1
+msgpack==1.1.2
+typing_extensions==4.15.0
