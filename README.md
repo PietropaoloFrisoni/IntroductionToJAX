@@ -5,7 +5,7 @@ Public repository for the *Introduction to JAX: JIT, Autodiff and the Compiler S
 **Instructor:** Pietropaolo Frisoni. Computational Scientist, Quantum Software Engineer.
 
 <!-- notebook-check:start -->
-✅ **Kept up to date:** every notebook is tested automatically each week. Latest versions checked: **JAX 0.12.1**, Flax 0.12.12, Optax 0.2.9 ([why versions matter](#a-note-on-versions-please-read-this-one)).
+✅ **Kept up to date:** I personally test every notebook each week. The latest versions I checked was **JAX 0.12.1**, Flax 0.12.12, Optax 0.2.9 ([why versions matter](#a-note-on-versions-please-read-this-one)).
 <!-- notebook-check:end -->
 
 ---
@@ -14,7 +14,7 @@ Public repository for the *Introduction to JAX: JIT, Autodiff and the Compiler S
 
 Thank you for visiting this repository!
 
-Each folder corresponds to one chapter of the course. Inside each folder you will find the
+Each folder corresponds to one chapter of the course. Inside each folder, you will find the
 Jupyter notebook for that chapter (the same one written on screen during the lectures) and a
 `References.md` file with links to the official JAX documentation and further reading, each with
 a note on why it is worth opening.
