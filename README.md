@@ -4,6 +4,10 @@ Public repository for the *Introduction to JAX: JIT, Autodiff and the Compiler S
 
 **Instructor:** Pietropaolo Frisoni. Computational Scientist, Quantum Software Engineer.
 
+<!-- notebook-check:start -->
+✅ **Kept up to date:** every notebook is tested automatically each week. Latest versions checked: **JAX 0.12.1**, Flax 0.12.12, Optax 0.2.9 ([why versions matter](#a-note-on-versions-please-read-this-one)).
+<!-- notebook-check:end -->
+
 ---
 
 ## How to use this repository
